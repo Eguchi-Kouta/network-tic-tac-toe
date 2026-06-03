@@ -9,6 +9,6 @@ PowerShellを2つ立ち上げる。
 2つともプログラムのあるファイルに移動する。  
 それぞれで以下を実行する。  
 ### サーバー  
-python src/server.py  
+python server.py  
 ### クライアント  
-python src/client.py  
+python client.py  
