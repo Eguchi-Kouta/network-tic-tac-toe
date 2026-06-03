@@ -12,3 +12,9 @@ PowerShellを2つ立ち上げる。
 python server.py  
 ### クライアント  
 python client.py  
+
+## 実行例
+### サーバー
+![サーバー画面](images/tic_sv_test.png)
+### クライアント
+![クライアント画面](images/tic_cl_test.png)
